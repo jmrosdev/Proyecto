@@ -1,0 +1,50 @@
+   .cabecera .navbar-brand{
+      font-size: 23px;
+    }
+
+  .cabecera .navbar-default {
+    background-color: #A48967;    
+  }
+
+  .cabecera .navbar-default .navbar-nav > li > a {
+    color: white;
+  }
+
+  .cabecera .navbar-default .navbar-brand {
+    color: white;
+    display: none;
+  }
+
+  .cabecera .container-fluid {
+    padding-bottom: 15px;
+    padding-top: 15px; 
+  }
+  .cabecera .navbar-nav > li > a {
+    font-size: 18px; 
+  }
+
+  .cabecera{
+    .navbar{
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    .navbar-default{
+      border-color: #A48967;
+    }
+
+    .hvr-underline-from-center:before{
+      background: #FAD55E;
+    }
+
+  }
+
+  #cabecera {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 40px;
+    z-index: 70;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}

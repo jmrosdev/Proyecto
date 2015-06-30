@@ -1,0 +1,120 @@
+.titulo-beneficios{
+
+    margin-top: 3em;;
+    .categoria-raya{
+        margin-top: 0em;;
+    }
+}
+
+.caja-video{
+    margin-top: 4em;
+   
+}
+
+.texto-video{
+    
+    padding-right: 2em;
+    p{
+        padding-top: 1em;
+        text-align: justify;
+    }
+
+    h2{
+        text-align: right;
+    }
+
+    .categoria-raya{
+        margin-top: 0em;
+        width: 85%;
+        float: right;
+        background: #FAD55E;
+        border: 0.5px solid #774F38;
+    }
+}
+
+.video-beneficios{
+    iframe{
+        width: 390px;
+        height: 320px;
+    }
+}
+
+.caja-propiedades{
+    margin-top: 2em;
+    padding-left: 3em;
+    padding-right: 3em;
+
+    p{
+        text-align: center;
+    }   
+}
+
+.caja-titulo-alimentos{
+
+    margin-top: 4em;
+
+    .categoria-raya{
+        margin-top: 0;
+        float: right;
+        width: 78%;
+    }
+
+    .frase1{
+        text-align: right;
+    }
+}
+
+.caja-acompañar{
+    margin-top: 3em;
+}
+
+.titulo-acompañar{
+
+    margin-top: 1em;
+
+    .categoria-raya{
+        margin-top: 0;
+        width: 15%;
+    }
+}
+
+.lista-alimento{
+    margin-top: 1em;
+    text-align: justify;
+
+    ul{
+        margin-top: 0.5em;
+        list-style-type: disc;
+        padding-left: 2em;
+        padding-right: 3em;
+    }
+
+    li{
+        color: #774F38;
+    }
+
+    p{
+        color: black;
+        font-size: 16px;
+    }
+    
+}
+
+.caja-titulo-frutasdes{
+    .categoria-raya{
+        width: 60%;
+    }
+}
+
+.caja-titulo-frutossec{
+    .categoria-raya{
+        width: 45%;
+    }
+}
+
+.caja-titulo-frutasfres{
+    .categoria-raya{
+        width: 50%;
+    }
+}
+

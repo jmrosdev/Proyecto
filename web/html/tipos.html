@@ -1,0 +1,94 @@
+<div class="container contenedor tipos">
+	<div class="row">
+		<div class="caja-titulo-tipos">
+			<div class="col-lg-5 col-md-5"></div>		
+			<div class="titulo-historia col-lg-7 col-md-7">
+				<h1 class="frase1">Tipos de Queso</h1>
+				<div class="categoria-raya"></div>
+			</div>
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="contenedor-tipos">
+			<div class="bs-callout bs-callout-queso col-lg-7">
+				<p>La gran gama de quesos existentes hace imposible una clasificación única de los mismos. Son muchas las características que los definen, como el grado de añejamiento, o curado, la procedencia de la leche usada, su textura o su contenido en grasa. <b>A continuación veremos las dos clasificaciones mas populares</b>, según el origen de la leche y según la textura de la pasta. </p>
+			</div>
+
+			<div class="col-lg-3 img-bs-tipos">
+				<img class="img-thumbnail" src="img/tiposqueso.jpg">
+			</div>			
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="titulo-clasificacion">
+			<div class="col-lg-9 col-md-6">
+				<h1 class="frase2">Clasificación según el origen de la leche.</h1>
+				<div class="categoria-raya"></div>
+				<h4>Buscador</h4>
+				<input type="search" ng-model="busqueda">
+			</div>
+			<div class="col-lg-3 col-md-3"></div>			
+		</div>
+	</div>	
+
+	<div class="row" ng-controller="tipos" >
+		<ul class="aux-tipos" ng-repeat="x in tipos | filter: {titulo:busqueda}">
+			<li class="tipo-leche clearfix" >
+				<div class="col-lg-4">
+					<div class="img-tipo">
+						<img class="img-circle" ng-src="{{x.imagen}}">
+						<p class="espefi-tipo">{{x.espef}}</p>
+					</div>
+				</div>
+				<div class="col-lg-8">
+					<div class="texto-tipo">
+						<h3>{{x.titulo}}</h3>
+						<p>{{x.texto}}</p>
+					</div>
+				</div>
+				<div class="raya-tipo"></div>
+			</li>
+			
+		</ul>		
+	</div>
+
+	<!-- ACABADO PRIMER TIPO -->
+	
+	<div class="row">
+		<div class="titulo-clasificacion">
+			<div class="col-lg-9 col-md-6">
+				<h1 class="frase2">Clasificación según la textura de la pasta</h1>
+				<div class="categoria-raya"></div>
+				<h4>Buscador</h4>
+				<input type="search" ng-model="busqueda2">
+			</div>
+			<div class="col-lg-3 col-md-3"></div>			
+		</div>
+	</div>
+
+	<div class="row" ng-controller="tipoElaboracion" >
+		<ul class="aux-tipos" ng-repeat="x in tipos | filter: {titulo:busqueda2}">
+			<li class="tipo-leche clearfix" >
+				<div class="col-lg-4">
+					<div class="img-tipo">
+						<img class="img-circle" ng-src="{{x.imagen}}">
+						<p class="espefi-tipo">{{x.espef}}</p>
+					</div>
+				</div>
+				<div class="col-lg-8">
+					<div class="texto-tipo">
+						<h3>{{x.titulo}}</h3>
+						<p>{{x.texto}}</p>
+					</div>
+				</div>
+				<div class="raya-tipo"></div>
+			</li>
+			
+		</ul>		
+	</div>
+
+	<!-- ACABADO SEGUNDO TIPO -->
+
+</div>

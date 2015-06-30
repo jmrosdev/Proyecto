@@ -1,0 +1,32 @@
+
+
+
+// Estilos Generales
+
+body{
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  font-weight: 300;
+}
+.scroll-content{
+	background-color: #f8f8f8;
+}
+
+.bar.bar-stable {
+	background-color: #a48967;
+}
+
+.bar.bar-stable .title{
+	color: white;
+}
+
+.bar-stable .button.button-clear{
+	color: white;
+}
+
+//Importando las demas clases .scss para mayor modularidad
+
+@import "home";
+@import "historia";
+@import "tipos";
+@import "beneficios";
+@import "ferias";

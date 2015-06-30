@@ -1,0 +1,1294 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-right: "
+			],
+			[
+				"padding",
+				"padding-left: "
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"text",
+				"text-decoration: "
+			],
+			[
+				"list",
+				"list-c	list-style-type: circle;"
+			],
+			[
+				"font",
+				"font-size: "
+			],
+			[
+				"paddin",
+				"padding-bottom: "
+			],
+			[
+				"inlnie",
+				"inline-block"
+			],
+			[
+				"border",
+				"border-bottom: "
+			],
+			[
+				"text-",
+				"text-decoration: "
+			],
+			[
+				"max",
+				"max-width: "
+			],
+			[
+				"back",
+				"background-color: 〔property〕"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"ng-v",
+				"ng-view	AngularJS"
+			],
+			[
+				"route",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"mysql",
+				"mysql_close〔function〕"
+			],
+			[
+				"mysql_c",
+				"mysql_connect〔function〕"
+			],
+			[
+				"co",
+				"conn"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"op",
+				"opacity"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/styles/sass/_contenedor.scss",
+			"settings":
+			{
+				"buffer_size": 1532,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/styles/sass/_error.scss",
+			"settings":
+			{
+				"buffer_size": 337,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/js/controller.js",
+			"settings":
+			{
+				"buffer_size": 4604,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/styles/sass/main.scss",
+			"settings":
+			{
+				"buffer_size": 452,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/index.html",
+			"settings":
+			{
+				"buffer_size": 1287,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/html/error.html",
+			"settings":
+			{
+				"buffer_size": 327,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/html/tipos.html",
+			"settings":
+			{
+				"buffer_size": 2754,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/html/pie.html",
+			"settings":
+			{
+				"buffer_size": 695,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/html/cabecera.html",
+			"settings":
+			{
+				"buffer_size": 912,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/lib",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/lib/js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/styles",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/styles/sass"
+	],
+	"file_history":
+	[
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/styles/sass/_pie.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/styles/sass/main.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/html/cabecera.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/html/home.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/html/beneficios.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/index.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/styles/sass/_contenedor.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/_tipos.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/_ferias.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/_beneficios.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/js/controller.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/sublime/web.sublime-project",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/beneficios.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/index.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/css/slider.css",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/js/script.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/tipos.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/ferias.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/js/jCarousel.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/main.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/js/main.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/js/route.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/cabecera.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/_galeria.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/js/main2.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/fullpage/examples/demoPage.html",
+		"/Users/JuanManuelRos/Downloads/font-awesome-4.3.0/css/font-awesome.min.css",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/css/hover-min.css",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/home.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/_cabecera.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/_contenedor.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/ferias.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/mixture.json",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/js/bootstrap.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/css/bootstrap.css",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/historia.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/error.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/fullpage/jquery.fullPage.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/_historia.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/documentacion.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/img/escudoCm.png",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/img/cmCorazon.png",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/_pie.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/galeria.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/pie.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/js/angular-route.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/js/angular.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/_reset.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/prueba/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/prueba/prueba.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/prueba/formulario.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/prueba/form.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/prueba/connection.php",
+		"/Users/JuanManuelRos/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/prueba/js/js.js",
+		"/Users/JuanManuelRos/Dropbox/ProgramacionPersonal/angularjs/practicaAngular/index.html",
+		"/Users/JuanManuelRos/Dropbox/ProgramacionPersonal/angularjs/practicaAngular/vistas/contenido.html",
+		"/Users/JuanManuelRos/Dropbox/ProgramacionPersonal/angularjs/practicaAngular/js/main.js",
+		"/Users/JuanManuelRos/Dropbox/ProgramacionPersonal/angularjs/practicaAngular/styles/sass/_sidebar.scss",
+		"/Users/JuanManuelRos/Dropbox/ProgramacionPersonal/angularjs/practicaAngular/styles/sass/main.scss",
+		"/Users/JuanManuelRos/Dropbox/ProgramacionPersonal/angularjs/practicaAngular/styles/sass/_cabecera.scss",
+		"/Users/JuanManuelRos/Dropbox/ProgramacionPersonal/angularjs/practicaAngular/styles/sass/_contenido.scss",
+		"/Users/JuanManuelRos/Dropbox/ProgramacionPersonal/angularjs/practicaAngular/js/angular.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/1 DAM/ProgramacionTemas/Tema 5/EjerciciosTema5JuanManuelRos/Calculadora/Calculadora.jar",
+		"/Applications/XAMPP/xamppfiles/htdocs/PracticaIndra/css/sass/_contenido.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/PracticaIndra/css/sass/_menuIzq.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/PracticaIndra/css/sass/_menuDerechoTabla.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/prueba/css/style_form.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/connection.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/formulario.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/css/style_form.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/webProyecto/formulario.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/webProyecto/css/style_form.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/webProyecto/js/js_form.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/webProyecto/sass/style_form.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/webProyecto/connection.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/webProyecto/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/webProyecto/sass/style.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/webProyecto/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/prueba.php",
+		"/Users/JuanManuelRos/Dropbox/COMPARTIDA/Proyecto/Web/css/style.css",
+		"/Users/JuanManuelRos/Dropbox/COMPARTIDA/Proyecto/Web/index.html",
+		"/Users/JuanManuelRos/Dropbox/COMPARTIDA/Proyecto/Web/connection.php",
+		"/Users/JuanManuelRos/Dropbox/COMPARTIDA/Proyecto/Web/style.css",
+		"/Users/JuanManuelRos/Dropbox/COMPARTIDA/Proyecto/Web/js.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/1 DAM/ProgramacionTemas/PROGRAMACION/TEMA 3/Videojuego_Int/src/Partido.java",
+		"/Users/JuanManuelRos/Dropbox/DAM/1 DAM/ProgramacionTemas/PROGRAMACION/TEMA 3/Videojuego_Int/src/Entrenador.java",
+		"/Users/JuanManuelRos/Dropbox/DAM/1 DAM/ProgramacionTemas/PROGRAMACION/TEMA 3/Videojuego_Int/src/Estadio.java",
+		"/Users/JuanManuelRos/Dropbox/DAM/1 DAM/ProgramacionTemas/PROGRAMACION/TEMA 3/Videojuego_Int/src/Jugador.java",
+		"/Users/JuanManuelRos/Dropbox/DAM/1 DAM/ProgramacionTemas/PROGRAMACION/TEMA 3/Videojuego_Int/src/Principal.java",
+		"/Users/JuanManuelRos/Dropbox/DAM/1 DAM/ProgramacionTemas/PROGRAMACION/TEMA 3/Videojuego_Int/src/Equipo.java"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 111.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hvr-underline-from-center",
+			"{\n",
+			"80",
+			"data1",
+			"hierro",
+			"class=\"textocuadros\"",
+			"<td  v>",
+			"v",
+			"align",
+			"bgcolor",
+			"=",
+			"$",
+			"section",
+			".bs-callout",
+			"img",
+			"<img",
+			"img",
+			"Compatible",
+			"popup",
+			"green",
+			"mark",
+			"</ul",
+			"<ul",
+			"ul",
+			"100%",
+			"separador",
+			"18px",
+			"5em",
+			"0.5",
+			"5",
+			"1.5",
+			"name",
+			"script",
+			"\n  	<meta charset=\"UTF-8\">\n  	<link rel=\"stylesheet\" type=\"text/css\" href=\"css/style_form.css\">\n    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css\">\n    <link rel=\"stylesheet\" href=\"//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/css/datepicker.min.css\" />\n  <link rel=\"stylesheet\" href=\"//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/css/datepicker3.min.css\" />\n\n  <script src=\"//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/js/bootstrap-datepicker.min.js\"></script>\n  	<title>Prueba</title>\n    \n  ",
+			"datepicker",
+			"spec",
+			"chrome"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/styles/sass/_contenedor.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (dark).tmTheme",
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/styles/sass/_error.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (dark).tmTheme",
+							"open_with_edit": true,
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/js/controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4604,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (dark).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/styles/sass/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								445,
+								445
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (dark).tmTheme",
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1287
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (dark).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 211.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/html/error.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								276
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (dark).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/html/tipos.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2754,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1781,
+								1781
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (dark).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/html/pie.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								225
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (dark).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/web/html/cabecera.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								797,
+								797
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (dark).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.39422931812,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "web.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/DAM/2 DAM/Proyecto/sublime/aplicacion.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,174 @@
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300; }
+
+.scroll-content {
+  background-color: #f8f8f8; }
+
+.bar.bar-stable {
+  background-color: #a48967; }
+
+.bar.bar-stable .title {
+  color: white; }
+
+.bar-stable .button.button-clear {
+  color: white; }
+
+.titulo {
+  text-align: left; }
+  .titulo h1 {
+    margin-bottom: 0; }
+  .titulo h4 {
+    margin-bottom: 0;
+    margin-top: 0.1em;
+    margin-left: 0.5em; }
+
+.entradilla {
+  margin-top: 0.5em; }
+  .entradilla img {
+    width: 250px;
+    margin: 0 auto;
+    margin-bottom: 1em; }
+  .entradilla p {
+    text-align: justify;
+    padding-right: 1em;
+    padding-left: 1em; }
+
+.texto-imagen-historia img {
+  width: 100%;
+  margin-bottom: 1em; }
+.texto-imagen-historia p {
+  text-align: justify; }
+
+.titulo-cm h2 {
+  margin-top: 0; }
+
+.cm .cm-img {
+  width: 30%; }
+
+.aux-img-historia {
+  text-align: center; }
+
+.lista-tipos {
+  margin-top: 2em; }
+  .lista-tipos i {
+    font-size: 15px; }
+  .lista-tipos .titulo-tipo {
+    padding-left: 0.3em;
+    padding-bottom: 0.2em; }
+  .lista-tipos .item p {
+    white-space: normal;
+    text-align: justify; }
+  .lista-tipos .item h2 {
+    font-size: 18px;
+    margin-bottom: 0.3em; }
+
+.img-tipos {
+  width: 30%; }
+  .img-tipos img {
+    width: 100%; }
+
+.titulo-tipos {
+  width: 100%; }
+  .titulo-tipos h2 {
+    font-size: 16px;
+    margin-left: 2em; }
+
+.texto-tipos {
+  margin-left: 2em; }
+
+.titulo-beneficios h1 {
+  margin-top: 0;
+  margin-bottom: 0; }
+
+.texto-beneficios p {
+  text-align: justify; }
+
+.video-beneficios {
+  text-align: center;
+  display: inline; }
+
+.caja-propiedades {
+  margin-top: 1em; }
+  .caja-propiedades a {
+    text-decoration: none; }
+  .caja-propiedades .texto-intro {
+    text-align: center;
+    margin-bottom: 1em;
+    background: #FAD55E;
+    border: 1px solid #A48967; }
+
+.pan h3, .miel h3, .frutas-desc h3, .frutos-sec h3, .frutas-fres h3 {
+  margin-bottom: 0; }
+.pan h4, .miel h4, .frutas-desc h4, .frutos-sec h4, .frutas-fres h4 {
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-left: 1em;
+  display: inline-block;
+  border-bottom: 0.2em #FAD55E solid; }
+.pan img, .miel img, .frutas-desc img, .frutos-sec img, .frutas-fres img {
+  padding-top: 1em;
+  width: 90%;
+  margin: 0 auto;
+  display: block; }
+
+.lista-acompanar {
+  padding-left: 1.5em;
+  margin-top: 1em; }
+  .lista-acompanar ul {
+    list-style: circle; }
+
+.slider {
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  bottom: 0 !important;
+  right: 0 !important; }
+
+.slider-slide {
+  color: #000;
+  background-color: #ddd; }
+
+.button.ng-hide {
+  display: none; }
+
+.aux, .scroll {
+  height: 100%;
+  min-height: 100%; }
+
+.titulo-feria {
+  padding-top: 50%; }
+  .titulo-feria h1 {
+    text-align: center; }
+  .titulo-feria p {
+    font-size: 16px;
+    padding-left: 3em;
+    padding-right: 2em; }
+  .titulo-feria .icon {
+    font-size: 90px;
+    margin-left: 43%; }
+
+.seccion {
+  padding-top: 5%; }
+  .seccion h1 {
+    text-align: center; }
+  .seccion p {
+    text-align: justify;
+    padding-left: 1em;
+    padding-right: 1em; }
+  .seccion iframe {
+    width: 99%;
+    padding-left: 1em;
+    padding-right: 1em; }
+
+.primero {
+  background-color: #F7F5CB; }
+
+.segundo {
+  background-color: #FBEEC2; }
+
+.tercero {
+  background-color: #FFFEEB; }
+
+.cuarto {
+  background-color: #F7F5CB; }

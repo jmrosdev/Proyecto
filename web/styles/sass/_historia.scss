@@ -1,0 +1,74 @@
+.titulo-historia{
+	.frase1{
+		margin-top: 1.4em;
+		text-align: right;
+		margin-bottom: 0;
+	}
+
+	.categoria-raya{
+		margin-top: 0.3em;
+		float: right;
+	}
+}
+
+.well-historia{
+	height: auto;
+	margin-top: 2em;
+
+	background-image: url('../../../img/textura.png');
+}
+
+.img-well-historia{
+	img{
+		width:100%;
+	}
+}
+
+.texto-well-historia{
+	margin-top: 1em;
+	text-align: justify;
+
+	p{
+		margin-top: 1.5em;
+		line-height: 1.5em;
+		letter-spacing: 0.05em;
+
+		&:first-child{
+			margin-top: 2em;
+		}
+
+		&:nth-child(2){
+			font-weight: bold;
+		}
+
+		&:nth-child(5){
+			margin-top: 0;
+		}	
+
+	}
+}
+
+.negrita{
+	font-weight: bold;
+}
+
+.titulo-historia-cm{
+
+	.categoria-raya{
+		width: 100%;
+	}
+
+	.frase1{
+		text-align: left;
+	}
+}
+
+.img-historia-cm{
+	text-align: center;
+	margin-top: 3em;
+	margin-bottom: 1em;
+
+	img{
+		width: 20%;
+	}
+}

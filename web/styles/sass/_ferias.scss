@@ -1,0 +1,90 @@
+.titulo-ferias{
+	.categoria-raya{
+		margin-top: 0;
+		width: 50%;
+	}
+}
+
+.ferias{
+	.fa-5x{
+		font-size: 18em;
+	}
+}
+
+.titulo-ferias{
+	h1{
+		font-size: 60px;
+	}
+}
+
+.subtitulo-ferias{
+	font-size: 40px;
+	padding-right: 13em;
+}
+
+.aux-titulo-ferias{
+	position: relative;
+	left: 6%;
+	bottom: 7%;
+}
+
+.icono-down{
+	text-align: center;
+	margin-top: 4em;
+}
+
+.contenedor-caja-feria{
+	position: relative;
+	top: 3%;
+
+	.categoria-raya{
+		width: 50%;
+		margin-top: 2em;
+	}
+}
+
+.caja-titulo-feria{
+	position: relative;
+	left: 5%;
+}
+
+.nombreFeria{
+	font-size: 60px;
+}
+
+.ciudadFeria{
+	position: relative;
+	left: 2%;
+	font-size: 40px;
+}
+
+.mapa-feria{
+	position: absolute;
+	right: 3%;
+	border: 8px #FAD55E solid;
+	top: 29%;
+	width: 38%;
+
+	iframe{
+		width: 100%;
+		height: 380px;
+	}	
+}
+
+.texto-feria{
+	width: 60%;
+	padding-left: 6em;
+	padding-right: 5em;
+	padding-top: 2em;
+	font-size: 20px;
+
+	p{
+		padding-bottom: 0.8em;
+
+		&:last-child{
+			padding-bottom: 0;
+		}
+	}
+
+}
+

@@ -1,0 +1,24 @@
+//Imports de los demas archivos .scss
+@import "reset.scss";
+@import "cabecera.scss";
+@import "pie.scss";
+
+@import "contenedor.scss";
+@import "historia.scss";
+@import "tipos.scss";
+@import "ferias.scss";
+@import "beneficios.scss";
+@import "error.scss";
+
+html{
+
+	position: relative;
+  	min-height: 100%;
+
+	body{
+		background: #ECE5CE;
+		margin-bottom: 60px;
+		font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	}
+}
+

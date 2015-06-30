@@ -1,0 +1,8 @@
+body:before { 
+                            white-space: pre; 
+                            font-family: monospace; 
+                            content: 'Sass Error: File to import not found or unreadable: www\\lib\\ionic\\scss\\ionic. \A        Load path: \\ \A         on line 22 of \\Users\\JuanManuelRos\\Dropbox\\DAM\\2 DAM\\Proyecto\\aplicacion\\quesoteca\\scss\\ionic.app.scss \A '; } 
+                            
+                            body * { 
+                            display: none; 
+                            } 

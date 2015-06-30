@@ -1,0 +1,111 @@
+.contenedor-tipos{
+	.bs-callout{
+		margin-top: 2.6em;			
+		height: 260px;
+	}
+}
+
+.bs-callout {
+    padding: 20px;
+    margin: 20px 0px;
+    border-width: 1px 1px 1px 8px;
+    border-style: solid;
+    border-color: #F9F1D9;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    border-radius: 3px;
+
+
+    p{
+    	margin-top: 2em;
+    	line-height: 1.4em;
+    	font-size: 17px;   	
+    	text-align: justify;
+    	padding-right: 0.5em;
+		padding-left: 1em;
+    }
+}
+
+.bs-callout-queso{
+	border-left-color:#FAD55E;
+	background: #FFFDF8;
+}
+
+.img-bs-tipos{
+	margin-top: 2.5em;
+	margin-left: 1em;
+
+	.img-thumbnail{
+		max-width: none;
+	}
+	img{
+		width:350px;
+	}
+}
+
+.titulo-clasificacion{
+	margin-top: 2em;
+	.categoria-raya{
+		margin-top: 0;
+		width: 100%;
+	}
+}
+
+.tipo-leche{
+	margin-top: 2.5em;
+
+}
+
+.img-tipo{
+	margin-top: 2em;
+	img{
+		width: 300px;
+	}	
+}
+
+.espefi-tipo{
+	text-align: center;
+	margin-top: 1em;
+	font-size: 16px;
+	text-decoration: underline;
+	font-style: italic;
+}
+
+.texto-tipo{
+	padding-top: 1em;
+	padding-left: 1em;
+
+	p{
+		text-align: justify;
+		padding-right: 5em;
+	}
+}
+
+.aux-tipos{
+	li{
+	}
+
+	&:last-child{
+		.raya-tipo{
+			height: 0;
+		}
+	}
+}
+
+.raya-tipo{
+	height: 1px;
+	width: 80%;
+	background: #774F38;	
+	margin-top: 3em;
+	margin-left: 10em;
+	margin-right: auto;
+	display: inline-block;
+
+}
+
+input{
+	border-left: 5px #FAD55E solid;
+}

@@ -1,0 +1,40 @@
+<ion-view view-title="Quesoteca">
+  <ion-content padding="true">
+
+  <div class="entradilla">
+		<div class="row responsive-sm">
+			<h1>Tipos de queso</h1>	
+			<img src="img/tiposqueso.jpg">
+			<p>La gran gama de quesos existentes hace imposible una clasificación única de los mismos. Son muchas las características que los definen, como el grado de añejamiento, o curado, la procedencia de la leche usada, su textura o su contenido en grasa. <b>A continuación veremos las dos clasificaciones mas populares</b>, según el origen de la leche y según la textura de la pasta. </p>
+		</div>
+	</div>
+
+	<div class="lista-tipos plt" ng-controller="tipos">
+		<h2 class="titulo-tipo">Tipo: Leche</h2>
+	   	<div class="list" ng-repeat="x in tipos">	   
+
+		    <div class="item item-avatar" href="#">
+		      <img ng-src="{{x.imagen}}">
+		      <h2>{{x.titulo}}</h2>
+		      <p>{{x.texto}}</p>
+		      <i>{{x.espef}}</i>
+		    </div>  
+
+		</div>
+	</div>
+
+	<div class="lista-tipos" ng-controller="tipoElaboracion">
+		<h2 class="titulo-tipo">Tipo: Elaboración</h2>
+	   <div class="list" ng-repeat="x in tipos">	   
+
+		    <div class="item item-avatar">
+		      <img ng-src="{{x.imagen}}">
+		      <h2>{{x.titulo}}</h2>
+		      <p>{{x.texto}}</p>
+		      <i>{{x.espef}}</i>
+		    </div>  
+
+		</div>
+	</div>
+  </ion-content>
+</ion-view>

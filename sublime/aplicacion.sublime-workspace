@@ -1,0 +1,1069 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-bottom: "
+			],
+			[
+				"paddin",
+				"padding-left: "
+			],
+			[
+				"text",
+				"text-align: "
+			],
+			[
+				"padding",
+				"padding-right: "
+			],
+			[
+				"back",
+				"background-color: "
+			],
+			[
+				"ng-c",
+				"ng-controller	AngularJS"
+			],
+			[
+				"pad",
+				"padding-left: "
+			],
+			[
+				"qu",
+				"qué"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"tet",
+				"text-align: "
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"te",
+				"text-decoration: "
+			],
+			[
+				"list",
+				"list-c	list-style-type: circle;"
+			],
+			[
+				"font",
+				"font-size: "
+			],
+			[
+				"inlnie",
+				"inline-block"
+			],
+			[
+				"border",
+				"border-bottom: "
+			],
+			[
+				"text-",
+				"text-decoration: "
+			],
+			[
+				"max",
+				"max-width: "
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"ng-v",
+				"ng-view	AngularJS"
+			],
+			[
+				"route",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"mysql",
+				"mysql_close〔function〕"
+			],
+			[
+				"mysql_c",
+				"mysql_connect〔function〕"
+			],
+			[
+				"co",
+				"conn"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"op",
+				"opacity"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/js/app.js",
+			"settings":
+			{
+				"buffer_size": 2205,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/js/controllers.js",
+			"settings":
+			{
+				"buffer_size": 5977,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/templates/menu.html",
+			"settings":
+			{
+				"buffer_size": 1145,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/package.json",
+			"settings":
+			{
+				"buffer_size": 579,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/scss/scss - quesoteca/_tipos.scss",
+			"settings":
+			{
+				"buffer_size": 422,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/scss/scss - quesoteca/_home.scss",
+			"settings":
+			{
+				"buffer_size": 309,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "enabl",
+		"selected_items":
+		[
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal ",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/hooks/after_prepare",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/scss/scss - quesoteca",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/css",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/templates"
+	],
+	"file_history":
+	[
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/scss/scss - quesoteca/_beneficios.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/templates/tipo.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/templates/home.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/templates/historia.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/templates/beneficios.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/js/controllers.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/templates/ferias.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/templates/tipos.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/index.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/js/tipos.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/templates/playlists.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/scss/scss - quesoteca/style.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/scss/scss - quesoteca/_ferias.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/scss/scss - quesoteca/_tipos.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/js/app.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/scss/scss - quesoteca/_home.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/scss/scss - quesoteca/_historia.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/scss/ionic.app.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/css/style.css",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/mixture.json",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/scss/main.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/config.xml",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/templates/menu.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/js/controller.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/gulpfile.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/package.json",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/_tipos.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/_ferias.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/_beneficios.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/js/controller.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/sublime/web.sublime-project",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/beneficios.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/index.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/css/slider.css",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/js/script.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/tipos.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/ferias.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/js/jCarousel.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/main.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/js/main.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/js/route.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/cabecera.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/_galeria.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/js/main2.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/fullpage/examples/demoPage.html",
+		"/Users/JuanManuelRos/Downloads/font-awesome-4.3.0/css/font-awesome.min.css",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/css/hover-min.css",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/home.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/_cabecera.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/_contenedor.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/ferias.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/mixture.json",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/js/bootstrap.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/css/bootstrap.css",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/historia.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/error.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/fullpage/jquery.fullPage.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/_historia.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/documentacion.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/img/escudoCm.png",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/img/cmCorazon.png",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/_pie.scss",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/galeria.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/html/pie.html",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/js/angular-route.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/lib/js/angular.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/styles/sass/_reset.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/prueba/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/prueba/prueba.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/prueba/formulario.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/prueba/form.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/prueba/connection.php",
+		"/Users/JuanManuelRos/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/prueba/js/js.js",
+		"/Users/JuanManuelRos/Dropbox/ProgramacionPersonal/angularjs/practicaAngular/index.html",
+		"/Users/JuanManuelRos/Dropbox/ProgramacionPersonal/angularjs/practicaAngular/vistas/contenido.html",
+		"/Users/JuanManuelRos/Dropbox/ProgramacionPersonal/angularjs/practicaAngular/js/main.js",
+		"/Users/JuanManuelRos/Dropbox/ProgramacionPersonal/angularjs/practicaAngular/styles/sass/_sidebar.scss",
+		"/Users/JuanManuelRos/Dropbox/ProgramacionPersonal/angularjs/practicaAngular/styles/sass/main.scss",
+		"/Users/JuanManuelRos/Dropbox/ProgramacionPersonal/angularjs/practicaAngular/styles/sass/_cabecera.scss",
+		"/Users/JuanManuelRos/Dropbox/ProgramacionPersonal/angularjs/practicaAngular/styles/sass/_contenido.scss",
+		"/Users/JuanManuelRos/Dropbox/ProgramacionPersonal/angularjs/practicaAngular/js/angular.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/1 DAM/ProgramacionTemas/Tema 5/EjerciciosTema5JuanManuelRos/Calculadora/Calculadora.jar",
+		"/Applications/XAMPP/xamppfiles/htdocs/PracticaIndra/css/sass/_contenido.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/PracticaIndra/css/sass/_menuIzq.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/PracticaIndra/css/sass/_menuDerechoTabla.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/prueba/css/style_form.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/connection.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/formulario.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/css/style_form.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/webProyecto/formulario.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/webProyecto/css/style_form.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/webProyecto/js/js_form.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/webProyecto/sass/style_form.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/webProyecto/connection.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/webProyecto/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/webProyecto/sass/style.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/webProyecto/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/prueba/prueba.php",
+		"/Users/JuanManuelRos/Dropbox/COMPARTIDA/Proyecto/Web/css/style.css",
+		"/Users/JuanManuelRos/Dropbox/COMPARTIDA/Proyecto/Web/index.html",
+		"/Users/JuanManuelRos/Dropbox/COMPARTIDA/Proyecto/Web/connection.php",
+		"/Users/JuanManuelRos/Dropbox/COMPARTIDA/Proyecto/Web/style.css",
+		"/Users/JuanManuelRos/Dropbox/COMPARTIDA/Proyecto/Web/js.js",
+		"/Users/JuanManuelRos/Dropbox/DAM/1 DAM/ProgramacionTemas/PROGRAMACION/TEMA 3/Videojuego_Int/src/Partido.java",
+		"/Users/JuanManuelRos/Dropbox/DAM/1 DAM/ProgramacionTemas/PROGRAMACION/TEMA 3/Videojuego_Int/src/Entrenador.java",
+		"/Users/JuanManuelRos/Dropbox/DAM/1 DAM/ProgramacionTemas/PROGRAMACION/TEMA 3/Videojuego_Int/src/Estadio.java",
+		"/Users/JuanManuelRos/Dropbox/DAM/1 DAM/ProgramacionTemas/PROGRAMACION/TEMA 3/Videojuego_Int/src/Jugador.java",
+		"/Users/JuanManuelRos/Dropbox/DAM/1 DAM/ProgramacionTemas/PROGRAMACION/TEMA 3/Videojuego_Int/src/Principal.java",
+		"/Users/JuanManuelRos/Dropbox/DAM/1 DAM/ProgramacionTemas/PROGRAMACION/TEMA 3/Videojuego_Int/src/Equipo.java"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 111.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"../img",
+			"tipo",
+			"row",
+			"Card",
+			"card",
+			"Card",
+			"card",
+			"h1",
+			"h2",
+			"img/",
+			"true",
+			"h1",
+			".</",
+			"h1",
+			"{\n",
+			"80",
+			"data1",
+			"hierro",
+			"class=\"textocuadros\"",
+			"<td  v>",
+			"v",
+			"align",
+			"bgcolor",
+			"=",
+			"$",
+			"section",
+			".bs-callout",
+			"img",
+			"<img",
+			"img",
+			"Compatible",
+			"popup",
+			"green",
+			"mark",
+			"</ul",
+			"<ul",
+			"ul",
+			"100%",
+			"separador",
+			"18px",
+			"5em",
+			"0.5",
+			"5",
+			"1.5",
+			"name",
+			"script",
+			"\n  	<meta charset=\"UTF-8\">\n  	<link rel=\"stylesheet\" type=\"text/css\" href=\"css/style_form.css\">\n    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css\">\n    <link rel=\"stylesheet\" href=\"//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/css/datepicker.min.css\" />\n  <link rel=\"stylesheet\" href=\"//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/css/datepicker3.min.css\" />\n\n  <script src=\"//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/js/bootstrap-datepicker.min.js\"></script>\n  	<title>Prueba</title>\n    \n  ",
+			"datepicker",
+			"spec",
+			"chrome"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2205,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								869,
+								869
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (dark).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1062.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/js/controllers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5977,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5973,
+								5973
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (dark).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1487.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/www/templates/menu.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (dark).tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (dark).tmTheme",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/scss/scss - quesoteca/_tipos.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								186,
+								186
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (dark).tmTheme",
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "/Users/JuanManuelRos/Dropbox/DAM/2 DAM/Proyecto/aplicacion/quesoteca/scss/scss - quesoteca/_home.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 309,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Solarized (dark).tmTheme",
+							"syntax": "Packages/Syntax Highlighting for Sass/Syntaxes/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.557548755824,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aplicacion.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/DAM/2 DAM/Proyecto/sublime/web.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

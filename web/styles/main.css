@@ -1,0 +1,484 @@
+@charset "UTF-8";
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+body {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+.cabecera .navbar-brand {
+  font-size: 23px; }
+
+.cabecera .navbar-default {
+  background-color: #A48967; }
+
+.cabecera .navbar-default .navbar-nav > li > a {
+  color: white; }
+
+.cabecera .navbar-default .navbar-brand {
+  color: white;
+  display: none; }
+
+.cabecera .container-fluid {
+  padding-bottom: 15px;
+  padding-top: 15px; }
+
+.cabecera .navbar-nav > li > a {
+  font-size: 18px; }
+
+.cabecera .navbar {
+  margin-bottom: 0;
+  border-radius: 0; }
+.cabecera .navbar-default {
+  border-color: #A48967; }
+.cabecera .hvr-underline-from-center:before {
+  background: #FAD55E; }
+
+#cabecera {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height: 40px;
+  z-index: 70;
+  width: 100%;
+  padding: 0px;
+  margin: 0px; }
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  background-color: #F9E6A8;
+  border-top: 2px solid #774F38;
+  margin-top: 50px; }
+
+body > .container {
+  padding: 40px 15px 400px; }
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px; }
+
+.quesoteca-footer h4 {
+  margin-left: 3em; }
+
+.enlaces-pie {
+  padding-top: 3em; }
+  .enlaces-pie a {
+    padding-left: 1.7em;
+    font-size: 16px; }
+
+.acercade {
+  color: black; }
+
+.contenedor {
+  padding-bottom: 7em; }
+
+.titulo {
+  text-align: left;
+  float: left;
+  margin-bottom: 1.5em; }
+  .titulo .frase1 {
+    margin-bottom: 0; }
+  .titulo .frase2 {
+    margin-left: 30%;
+    margin-top: 0; }
+
+.categoria-raya {
+  height: 4px;
+  background: #774F38;
+  width: 67.7%;
+  margin-top: 5em;
+  display: block;
+  padding-right: 0; }
+
+.caja-texto-well {
+  margin-top: 3em;
+  margin-bottom: 4em; }
+
+.img-well img {
+  max-width: 90%;
+  float: right; }
+
+.texto-well {
+  margin-top: 1em;
+  text-align: justify; }
+
+.titulo-well {
+  text-align: right;
+  margin-top: 10px; }
+
+.raya-separador {
+  height: 1px;
+  padding-bottom: 15.5em;
+  background: #E08E79;
+  width: 10%; }
+
+.img-separador {
+  margin-bottom: 3em;
+  text-align: center; }
+  .img-separador img {
+    width: 60%; }
+
+/*SECCIONES*/
+.caja1, .caja2, .caja3, .caja4 {
+  background-color: #F9F1D9;
+  -webkit-box-shadow: 4px 4px 5px 0px #a48967;
+  -moz-box-shadow: 4px 4px 5px 0px #a48967;
+  box-shadow: 4px 4px 5px 0px #a48967;
+  height: 500px; }
+
+.titulo-secciones {
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+  text-align: center;
+  font-style: italic; }
+
+.img-seccion {
+  text-align: center;
+  margin-bottom: 1em; }
+
+.texto-seccion {
+  padding-left: 1.25em;
+  padding-right: 1.25em;
+  padding-bottom: 1em;
+  text-align: justify; }
+
+.caja1 .img-seccion img, .caja2 .img-seccion img, .caja3 .img-seccion img {
+  width: 90%;
+  text-align: center; }
+
+.caja4 .img-seccion img {
+  width: 50%;
+  text-align: center; }
+
+.titulo-historia .frase1 {
+  margin-top: 1.4em;
+  text-align: right;
+  margin-bottom: 0; }
+.titulo-historia .categoria-raya {
+  margin-top: 0.3em;
+  float: right; }
+
+.well-historia {
+  height: auto;
+  margin-top: 2em;
+  background-image: url("../../../img/textura.png"); }
+
+.img-well-historia img {
+  width: 100%; }
+
+.texto-well-historia {
+  margin-top: 1em;
+  text-align: justify; }
+  .texto-well-historia p {
+    margin-top: 1.5em;
+    line-height: 1.5em;
+    letter-spacing: 0.05em; }
+    .texto-well-historia p:first-child {
+      margin-top: 2em; }
+    .texto-well-historia p:nth-child(2) {
+      font-weight: bold; }
+    .texto-well-historia p:nth-child(5) {
+      margin-top: 0; }
+
+.negrita {
+  font-weight: bold; }
+
+.titulo-historia-cm .categoria-raya {
+  width: 100%; }
+.titulo-historia-cm .frase1 {
+  text-align: left; }
+
+.img-historia-cm {
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 1em; }
+  .img-historia-cm img {
+    width: 20%; }
+
+.contenedor-tipos .bs-callout {
+  margin-top: 2.6em;
+  height: 260px; }
+
+.bs-callout {
+  padding: 20px;
+  margin: 20px 0px;
+  border-width: 1px 1px 1px 8px;
+  border-style: solid;
+  border-color: #F9F1D9;
+  -moz-border-top-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  border-image: none;
+  border-radius: 3px; }
+  .bs-callout p {
+    margin-top: 2em;
+    line-height: 1.4em;
+    font-size: 17px;
+    text-align: justify;
+    padding-right: 0.5em;
+    padding-left: 1em; }
+
+.bs-callout-queso {
+  border-left-color: #FAD55E;
+  background: #FFFDF8; }
+
+.img-bs-tipos {
+  margin-top: 2.5em;
+  margin-left: 1em; }
+  .img-bs-tipos .img-thumbnail {
+    max-width: none; }
+  .img-bs-tipos img {
+    width: 350px; }
+
+.titulo-clasificacion {
+  margin-top: 2em; }
+  .titulo-clasificacion .categoria-raya {
+    margin-top: 0;
+    width: 100%; }
+
+.tipo-leche {
+  margin-top: 2.5em; }
+
+.img-tipo {
+  margin-top: 2em; }
+  .img-tipo img {
+    width: 300px; }
+
+.espefi-tipo {
+  text-align: center;
+  margin-top: 1em;
+  font-size: 16px;
+  text-decoration: underline;
+  font-style: italic; }
+
+.texto-tipo {
+  padding-top: 1em;
+  padding-left: 1em; }
+  .texto-tipo p {
+    text-align: justify;
+    padding-right: 5em; }
+
+.aux-tipos:last-child .raya-tipo {
+  height: 0; }
+
+.raya-tipo {
+  height: 1px;
+  width: 80%;
+  background: #774F38;
+  margin-top: 3em;
+  margin-left: 10em;
+  margin-right: auto;
+  display: inline-block; }
+
+input {
+  border-left: 5px #FAD55E solid; }
+
+.titulo-ferias .categoria-raya {
+  margin-top: 0;
+  width: 50%; }
+
+.ferias .fa-5x {
+  font-size: 18em; }
+
+.titulo-ferias h1 {
+  font-size: 60px; }
+
+.subtitulo-ferias {
+  font-size: 40px;
+  padding-right: 13em; }
+
+.aux-titulo-ferias {
+  position: relative;
+  left: 6%;
+  bottom: 7%; }
+
+.icono-down {
+  text-align: center;
+  margin-top: 4em; }
+
+.contenedor-caja-feria {
+  position: relative;
+  top: 3%; }
+  .contenedor-caja-feria .categoria-raya {
+    width: 50%;
+    margin-top: 2em; }
+
+.caja-titulo-feria {
+  position: relative;
+  left: 5%; }
+
+.nombreFeria {
+  font-size: 60px; }
+
+.ciudadFeria {
+  position: relative;
+  left: 2%;
+  font-size: 40px; }
+
+.mapa-feria {
+  position: absolute;
+  right: 3%;
+  border: 8px #FAD55E solid;
+  top: 29%;
+  width: 38%; }
+  .mapa-feria iframe {
+    width: 100%;
+    height: 380px; }
+
+.texto-feria {
+  width: 60%;
+  padding-left: 6em;
+  padding-right: 5em;
+  padding-top: 2em;
+  font-size: 20px; }
+  .texto-feria p {
+    padding-bottom: 0.8em; }
+    .texto-feria p:last-child {
+      padding-bottom: 0; }
+
+.titulo-beneficios {
+  margin-top: 3em; }
+  .titulo-beneficios .categoria-raya {
+    margin-top: 0em; }
+
+.caja-video {
+  margin-top: 4em; }
+
+.texto-video {
+  padding-right: 2em; }
+  .texto-video p {
+    padding-top: 1em;
+    text-align: justify; }
+  .texto-video h2 {
+    text-align: right; }
+  .texto-video .categoria-raya {
+    margin-top: 0em;
+    width: 85%;
+    float: right;
+    background: #FAD55E;
+    border: 0.5px solid #774F38; }
+
+.video-beneficios iframe {
+  width: 390px;
+  height: 320px; }
+
+.caja-propiedades {
+  margin-top: 2em;
+  padding-left: 3em;
+  padding-right: 3em; }
+  .caja-propiedades p {
+    text-align: center; }
+
+.caja-titulo-alimentos {
+  margin-top: 4em; }
+  .caja-titulo-alimentos .categoria-raya {
+    margin-top: 0;
+    float: right;
+    width: 78%; }
+  .caja-titulo-alimentos .frase1 {
+    text-align: right; }
+
+.caja-acompañar {
+  margin-top: 3em; }
+
+.titulo-acompañar {
+  margin-top: 1em; }
+  .titulo-acompañar .categoria-raya {
+    margin-top: 0;
+    width: 15%; }
+
+.lista-alimento {
+  margin-top: 1em;
+  text-align: justify; }
+  .lista-alimento ul {
+    margin-top: 0.5em;
+    list-style-type: disc;
+    padding-left: 2em;
+    padding-right: 3em; }
+  .lista-alimento li {
+    color: #774F38; }
+  .lista-alimento p {
+    color: black;
+    font-size: 16px; }
+
+.caja-titulo-frutasdes .categoria-raya {
+  width: 60%; }
+
+.caja-titulo-frutossec .categoria-raya {
+  width: 45%; }
+
+.caja-titulo-frutasfres .categoria-raya {
+  width: 50%; }
+
+.error {
+  padding-left: 15px;
+  padding-right: 15px; }
+  .error h1 {
+    margin-top: 1em;
+    text-align: center;
+    font-size: 60px; }
+  .error img {
+    margin-top: 5em;
+    margin-left: 2em;
+    width: 90%;
+    border-radius: 80px; }
+
+.texto-error {
+  margin-top: 7.5em; }
+  .texto-error p {
+    text-align: right;
+    font-size: 35px;
+    padding-right: 2em;
+    padding-left: 2em; }
+
+html {
+  position: relative;
+  min-height: 100%; }
+  html body {
+    background: #ECE5CE;
+    margin-bottom: 60px;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; }

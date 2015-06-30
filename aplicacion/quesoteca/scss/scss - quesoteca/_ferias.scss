@@ -1,0 +1,78 @@
+.slider {
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  bottom: 0 !important;
+  right: 0 !important;
+}
+.slider-slide {
+  color: #000;
+  background-color: #ddd;
+}
+
+.button.ng-hide{
+  display:none;
+}
+
+.aux, .scroll{
+  height: 100%;
+  min-height: 100%;
+}
+
+.titulo-feria{
+  padding-top: 50%;
+
+  h1{
+    text-align: center;
+  }
+  
+  p{
+    font-size: 16px;
+    padding-left: 3em;
+    padding-right: 2em;
+  }
+
+  .icon{
+   font-size: 90px;
+   margin-left: 43%;
+  }
+
+}
+
+.seccion{
+
+  padding-top: 5%;
+
+  h1{
+    text-align: center;
+  }
+
+  p{
+    text-align: justify;
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+
+  iframe{
+    width: 99%;
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+}
+
+.primero{
+  background-color: #F7F5CB;
+
+}
+
+.segundo{
+  background-color: #FBEEC2;
+}
+
+.tercero{
+  background-color: #FFFEEB;
+}
+
+.cuarto{
+  background-color: #F7F5CB;
+}

@@ -1,0 +1,45 @@
+.lista-tipos{
+	margin-top: 2em;
+	i{
+		font-size: 15px;
+	}
+
+	.titulo-tipo{
+		padding-left: 0.3em;
+		padding-bottom: 0.2em;
+	}
+
+	.item{
+		p{
+			white-space: normal;
+			text-align: justify;
+		}
+		h2{
+			font-size: 18px;
+			margin-bottom: 0.3em;
+		}
+	}
+}
+
+.img-tipos{
+
+	width: 30%;
+
+	img{
+		width: 100%;
+	}
+}
+
+.titulo-tipos{
+
+	width: 100%;
+	h2{
+		font-size: 16px;
+		margin-left: 2em;
+	}
+}
+
+.texto-tipos{
+	margin-left: 2em;
+}
+
